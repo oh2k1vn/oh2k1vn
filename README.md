@@ -1,22 +1,39 @@
 <!-- Trungquandev -->
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
-</a>
+</a> -->
+<h2 align="center">HieuNguyen - 3107</h2>
 
 <h2 align="center">🛠 Công nghệ và Công cụ 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+
+<span><img src="https://img.shields.io/badge/Ant Design-282C34?logo=antDesign&logoColor=0170FE" alt="Ant Design" title="Ant Design" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/laravel-282C34?logo=laravel&logoColor=FF2D20" alt="laravel logo" title="laravel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/reactQuery-282C34?logo=reactQuery&logoColor=FF4154" alt="reactQuery logo" title="reactQuery" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/mysql-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/flutter-282C34?logo=flutter&logoColor=02569B" alt="flutter logo" title="flutter" height="25" /></span>
+&nbsp;
+
+<span><img src="https://img.shields.io/badge/vite-282C34?logo=vite&logoColor=646CFF" alt="vite logo" title="vite" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
@@ -26,13 +43,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma" title="Figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Ant Design-282C34?logo=antDesign&logoColor=0170FE" alt="Ant Design" title="Ant Design" height="25" /></span>
+<span><img src="https://img.shields.io/badge/sourcetree-282C34?logo=sourcetree&logoColor=0052CC" alt="sourcetree logo" title="sourcetree" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
-
 <br>
 
 <h2 align="center">🔥 Thống kê GitHub 🔥</h2>
