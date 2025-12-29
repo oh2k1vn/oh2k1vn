@@ -75,21 +75,12 @@ I am a Developer specializing in **Flutter (Mobile)** and **Zalo Mini App (Web)*
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Activity</h3>
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=oh2k1vn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" alt="stats graph" />
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh2k1vn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="170" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oh2k1vn&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub Streak" />
   
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=oh2k1vn&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views"/>
+  <br/> <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh2k1vn&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=8" alt="Top Languages" />
 </div>
