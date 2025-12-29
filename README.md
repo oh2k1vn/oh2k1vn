@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Senior+Mobile+%26+Web+Developer;Expert+in+Flutter+Performance+%26+Optimization;Building+Scalable+Zalo+Mini+Apps;System+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Mid-level Developer+Mobile+%26+Web+Developer;Building+Scalable+Zalo+Mini+Apps;System+Architecture+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -42,7 +42,7 @@ Specializing in **Flutter (Mobile)** and **Zalo Mini App (Web)** ecosystems, foc
 
 <div align="center">
 
-| **Mobile (Flutter)** | **Frontend & Zalo** | **Backend & Tools** |
+| **Frontend & Zalo** | **Backend & Tools** |
 |:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="25"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25"/> |
 | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="25"/> |
@@ -57,7 +57,6 @@ Specializing in **Flutter (Mobile)** and **Zalo Mini App (Web)** ecosystems, foc
 
 | Project | Role | Description | Tech |
 | :--- | :--- | :--- | :--- |
-| **Loyalty Booking App** | `Flutter Lead` | 🚀 Reduced load time by **45%**. Booking & Reward system for 50+ Spas. | `Flutter` `BLoC` `Firebase` |
 | **1Touch E-commerce** | `Zalo Mini App` | 🛍 One-click checkout solution on Zalo. Dynamic Form Engine included. | `React` `ZMP` `Node.js` |
 | **Dynamic Form Tool** | `Architect` | 🛠 A tool allowing non-tech users to build complex forms dynamically. | `TypeScript` `JSON Schema` |
 
