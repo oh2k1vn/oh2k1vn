@@ -4,20 +4,23 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Mid-level Developer+Mobile+%26+Web+Developer;Building+Scalable+Zalo+Mini+Apps;System+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Mid-level+Developer+%7C+Mobile+%26+Web;Building+Scalable+Zalo+Mini+Apps;System+Architecture+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://profile.oh2k1vn.workers.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-20232A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/hieu-nguyen-879101241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:oh2k1vn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://zalo.me/0972350070" target="_blank">
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"/>
   </a>
@@ -25,53 +28,68 @@
 
 <br/>
 
+<h3>🚀 About Me</h3>
+
+> _"I don't just write code; I design scalable architectures."_
+
+I am a Developer specializing in **Flutter (Mobile)** and **Zalo Mini App (Web)** ecosystems. My approach focuses on:
+
+* ⚡ **Performance:** Obsessed with 60fps rendering and instant app start-up times.
+* 🏗 **Architecture:** Implementing Clean Architecture, SOLID principles, and Scalable Patterns.
+* 📱 **Zalo Platform:** Expert in Dynamic Forms, E-commerce flows, and Payment Integration.
+
 ---
 
-### 🚀 About Me
-
-I am a Developer with a **System Mindset**. I don't just write code; I design scalable architectures.  
-Specializing in **Flutter (Mobile)** and **Zalo Mini App (Web)** ecosystems, focusing on:
-
-- ⚡ **Performance:** Optimizing app start-up time and rendering (60fps standard).
-- 🏗 **Architecture:** Clean Architecture, SOLID, Design Patterns.
-- 📱 **Zalo Platform:** Dynamic Forms, E-commerce flows, Payment Integration.
-
----
-
-### 🛠 Tech Stack
+<h3>🛠 Tech Stack</h3>
 
 <div align="center">
 
-| **Frontend & Zalo** | **Backend & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="25"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25"/> |
-| <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="25"/> |
-| <img src="https://img.shields.io/badge/BLoC-Pattern-blue?style=flat-square&logo=c&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/> |
-| <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/Zalo_ZMP-0068FF?style=flat-square&logo=zalo&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25"/> |
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/> <br/>
+
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Zalo_Mini_App-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <br/> <br/>
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 ---
 
-### 🏆 Featured Projects
+<h3>🏆 Featured Projects</h3>
 
-| Project | Role | Description | Tech |
+| Project | Role | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **1Touch E-commerce** | `Zalo Mini App` | 🛍 One-click checkout solution on Zalo. Dynamic Form Engine included. | `React` `ZMP` `Node.js` |
-| **Dynamic Form Tool** | `Architect` | 🛠 A tool allowing non-tech users to build complex forms dynamically. | `TypeScript` `JSON Schema` |
+| **1Touch E-commerce** | `Zalo Mini App` | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![ZMP](https://img.shields.io/badge/ZMP-blue) | 🛍 One-click checkout solution on Zalo.<br/>Dynamic Form Engine included. |
+| **Dynamic Form Tool** | `System Architect` | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JSON](https://img.shields.io/badge/JSON_Schema-000?logo=json&logoColor=white) | 🛠 Low-code tool allowing non-tech users<br/>to build complex logic forms dynamically. |
 
 ---
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/oh2k1vn">
-  <img src="https://github-readme-stats.vercel.app/api?username=oh2k1vn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh2k1vn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=oh2k1vn&style=flat-square&color=blue" alt="profile views"/>
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=oh2k1vn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" alt="stats graph" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh2k1vn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="170" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=oh2k1vn&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views"/>
 </div>
